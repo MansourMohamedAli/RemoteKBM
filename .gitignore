@@ -1,0 +1,6 @@
+/*venv
+/__pycache__
+/build
+/.vscode
+/dist
+*.spec
